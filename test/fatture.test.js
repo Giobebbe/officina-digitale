@@ -28,3 +28,5 @@ test("lo sconto viene sottratto dal totale", () => {
 test("uno sconto del 100 per cento azzera l'imponibile", () => {
   assert.strictEqual(calcolaTotale(righe, 100).totale, 0);
 });
+
+// riga di prova per verificare l1avviso automatico
