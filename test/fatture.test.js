@@ -30,3 +30,5 @@ test("uno sconto del 100 per cento azzera l'imponibile", () => {
 });
 
 // riga di prova per verificare l1avviso automatico
+
+// seconda riga di prova
